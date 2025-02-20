@@ -20,11 +20,6 @@ Webcam (Required for real-time detection)
 
 Installation
 
-Clone the repository:
-
-git clone https://github.com/your-repo/object-detection.git
-cd object-detection
-
 Install the required dependencies:
 
 pip install -r requirements.txt
